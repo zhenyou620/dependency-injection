@@ -2,8 +2,9 @@
 [Dependency Injectionとは](https://zenn.dev/zhenyou620/articles/dependency-injection)で用いたコードを格納したリポジトリです。
 
 ## 動作環境
-node: v22.11.0.
-jest: ^29.7.0
+|node|jest|
+|-|-|
+|v22.11.0.|^29.7.0
 
 ## インストール
 ```
